@@ -1,4 +1,4 @@
-# truora-challenge-frontend
+# Truora Challenge Frontend
 
 ## Project setup
 ```
